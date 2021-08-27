@@ -1,0 +1,3635 @@
+{
+  "resources": [
+    {
+      "public_id": "art/marriott_spring",
+      "version": 1621010120,
+      "format": "jpg",
+      "width": 3577,
+      "height": 2816,
+      "type": "upload",
+      "created_at": "2021-05-14T16:35:20Z",
+      "context": {
+        "custom": {
+          "caption": "Woburn Marriott in Spring",
+          "completed": "2021-05-11",
+          "geotag": "42.520635,-71.137355",
+          "year": "2021"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.520635,-71.137355"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "marriott_spring"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Woburn, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "painting"
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 12
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 9
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2021-05-10"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "uqgzybjnbyc10xidqzye",
+            "value": "spring"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/moody_st",
+      "version": 1609623797,
+      "format": "jpg",
+      "width": 3360,
+      "height": 2539,
+      "type": "upload",
+      "created_at": "2021-01-02T21:43:17Z",
+      "context": {
+        "custom": {
+          "album": "En Plein Air",
+          "caption": "Moody Street",
+          "completed": "2020-10-23",
+          "faa": "moody-street",
+          "geotag": "42.372617,-71.237090",
+          "key": "moody_street",
+          "location": "Waltham, MA",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "300",
+          "size": "10\" x 8\"",
+          "year": "2020"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.372617,-71.237090"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "moody_street"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 300
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 10
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 8
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2020-10-23"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/metfern",
+      "version": 1603243397,
+      "format": "jpg",
+      "width": 2981,
+      "height": 2398,
+      "type": "upload",
+      "created_at": "2020-10-21T01:23:17Z",
+      "context": {
+        "custom": {
+          "album": "En Plein Air",
+          "alt": "Cemetery for patients of Metro State Hospital",
+          "caption": "Metfern Cemetery",
+          "completed": "2020-10-19",
+          "faa": "metfern-cemetery",
+          "geotag": "42.39994,-71.2073582",
+          "key": "metfern",
+          "location": "Waltham, MA",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "180",
+          "size": "10\" x 8\"",
+          "year": "2020"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.39994,-71.2073582"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "metfern"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 180
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 10
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 8
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2020-10-19"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/mt_feake_charles",
+      "version": 1602530725,
+      "format": "jpg",
+      "width": 1799,
+      "height": 1784,
+      "type": "upload",
+      "created_at": "2020-10-12T19:25:25Z",
+      "context": {
+        "custom": {
+          "album": "Plein Air",
+          "alt": "Charles River from Mt Feake",
+          "caption": "Mt. Feake",
+          "completed": "2020-09-15",
+          "geotag": "42.362488,-71.255310",
+          "key": "mt_feake_charles",
+          "location": "Waltham, MA",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "150",
+          "year": "2020"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.362488,-71.255310"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "mt_feake_charles"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 150
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 6
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 6
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2020-09-15"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/purgatory_cove",
+      "version": 1602518927,
+      "format": "jpg",
+      "width": 3340,
+      "height": 2552,
+      "type": "upload",
+      "created_at": "2020-10-12T16:08:47Z",
+      "context": {
+        "custom": {
+          "album": "En Plein Air",
+          "caption": "Forest Grove",
+          "completed": "2020-10-08",
+          "faa": "forest-grove",
+          "key": "purgatory_cove",
+          "location": "Waltham, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "150",
+          "size": "12\" x 9\"",
+          "year": "2020"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.359242,-71.2505766"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "forest_grove"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 150
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 12
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 9
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2020-10-18"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/watch_factory",
+      "version": 1602518926,
+      "format": "jpg",
+      "width": 3331,
+      "height": 2447,
+      "type": "upload",
+      "created_at": "2020-10-12T16:08:46Z",
+      "context": {
+        "custom": {
+          "album": "En Plein Air",
+          "caption": "Waltham Watch Factory",
+          "completed": "2020-09-24",
+          "faa": "watch-factory",
+          "key": "waltham_watch_factory",
+          "location": "Waltham, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "150",
+          "size": "12\" x 9\"",
+          "year": "2020"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3663431,-71.2465454"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "watch_factory"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on canvas"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 150
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 12
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 9
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2020-09-24"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "0001",
+            "value": "summer"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/through_a_willow",
+      "version": 1600026888,
+      "format": "jpg",
+      "width": 3678,
+      "height": 2928,
+      "type": "upload",
+      "created_at": "2020-09-13T19:54:48Z",
+      "context": {
+        "custom": {
+          "caption": "Through a Willow",
+          "completed": "2020-08-30",
+          "faa": "through-a-willow",
+          "key": "through_a_willow",
+          "location": "Waltham, MA",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "300",
+          "size": "10\" x 8\"",
+          "year": "2020"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3690331,-71.2239602"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "through_a_willow"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on panel"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 300
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 10
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 8
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2020-08-30"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "0001",
+            "value": "summer"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/mt_feake_entrance",
+      "version": 1597164882,
+      "format": "jpg",
+      "width": 3748,
+      "height": 2681,
+      "type": "upload",
+      "created_at": "2020-08-11T16:54:42Z",
+      "context": {
+        "custom": {
+          "caption": "Mt Feake Entrance",
+          "completed": "2020-08-09",
+          "geotag": "42.369,-71.245",
+          "key": "feake_entrance",
+          "location": "Waltham, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "150",
+          "size": "7\" x 5\"",
+          "year": "2020"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.369,-71.245"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "feake_entrance"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on canvas"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 150
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 7
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 5
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2020-08-09"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "0001",
+            "value": "summer"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/forte_park",
+      "version": 1597164829,
+      "format": "jpg",
+      "width": 3755,
+      "height": 2983,
+      "type": "upload",
+      "created_at": "2020-08-11T16:53:49Z",
+      "context": {
+        "custom": {
+          "caption": "Forte Park",
+          "completed": "2020-08-05",
+          "geotag": "42.3673,-71.1944",
+          "key": "forte_park",
+          "location": "Watertown, MA",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "200",
+          "size": "10\" x 8\"",
+          "year": "2020"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3673,-71.1944"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "forte_park"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Watertown, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on panel"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 200
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 10
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 8
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2020-08-05"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "0001",
+            "value": "summer"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/first_parish",
+      "version": 1573333648,
+      "format": "jpg",
+      "width": 3589,
+      "height": 2876,
+      "type": "upload",
+      "created_at": "2019-11-09T21:07:28Z",
+      "context": {
+        "custom": {
+          "alb-order": "42",
+          "album": "Plein Air",
+          "alt": "UU church in Waltham, MA",
+          "caption": "First Parish",
+          "completed": "2019-11-09",
+          "faa": "first-parish",
+          "key": "first_parish",
+          "location": "Waltham, MA",
+          "medium": "acrylic on panel",
+          "original": "sold",
+          "size": "10\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3776586,-71.2347889"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "first_parish"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on panel"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 100
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 10
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 8
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-11-09"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/cronins_landing",
+      "version": 1573181788,
+      "format": "jpg",
+      "width": 2838,
+      "height": 2893,
+      "type": "upload",
+      "created_at": "2019-11-08T02:56:28Z",
+      "context": {
+        "custom": {
+          "alb-order": "41",
+          "alt": "Moody Street",
+          "caption": "Cronin's Landing",
+          "completed": "2019-11-02",
+          "faa": "cronins-landing",
+          "key": "cronins_landing",
+          "location": "Waltham, MA",
+          "medium": "acrylic on panel",
+          "price": "80",
+          "size": "6\" x 6\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3727778,-71.2352778"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "cronins_landing"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on panel"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 80
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 6
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-11-02"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/fall_footbridge",
+      "version": 1572297634,
+      "format": "jpg",
+      "width": 3747,
+      "height": 2828,
+      "type": "upload",
+      "created_at": "2019-10-28T21:20:34Z",
+      "context": {
+        "custom": {
+          "alb-order": "40",
+          "album": "Plein Air",
+          "alt": "View of footbridge from Watertown Dam, October",
+          "caption": "Fall Footbridge",
+          "completed": "2019-10-28",
+          "faa": "fall-footbridge",
+          "key": "fall_footbridge",
+          "location": "Watertown, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "250",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3652778,-71.1888889"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "fall_footbridge"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Watertown, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on canvas"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 250
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 12
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 9
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-10-28"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/fall_colors",
+      "version": 1572297627,
+      "format": "jpg",
+      "width": 3850,
+      "height": 2714,
+      "type": "upload",
+      "created_at": "2019-10-28T21:20:27Z",
+      "context": {
+        "custom": {
+          "alb-order": "38",
+          "album": "Plein Air",
+          "alt": "View of river, Waltham",
+          "caption": "Fall Colors",
+          "completed": "2019-10-25",
+          "faa": "fall-colors",
+          "key": "fall_colors",
+          "location": "Waltham, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "80",
+          "size": "7\" x 5\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3697414,-71.2238664"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "fall_colors"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on canvas"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 80
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 7
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 5
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-10-25"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/waltham_waterfall",
+      "version": 1572412201,
+      "format": "jpg",
+      "width": 5018,
+      "height": 2534,
+      "type": "upload",
+      "created_at": "2019-10-26T04:48:06Z",
+      "context": {
+        "custom": {
+          "alb-order": "39",
+          "album": "Plein Air",
+          "alt": "Just across the river from my house, early fall",
+          "caption": "Waterfall",
+          "completed": "2019-10-28",
+          "faa": "waterfall",
+          "key": "waltham_waterfall",
+          "location": "Waltham, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "300",
+          "size": "16\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3687708,-71.2230319"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "waltham_waterfall"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on canvas"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 300
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 16
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 8
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-10-28"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/autumn_woods",
+      "version": 1572065286,
+      "format": "jpg",
+      "width": 3777,
+      "height": 2957,
+      "type": "upload",
+      "created_at": "2019-10-26T04:48:06Z",
+      "context": {
+        "custom": {
+          "alb-order": "37",
+          "album": "Plein Air",
+          "alt": "The boardwalk approaching Blue Heron Bridge from the south side of the river, mid fall",
+          "caption": "Autumn Woods",
+          "completed": "2019-10-21",
+          "faa": "autumn-woods",
+          "key": "autumn_woods",
+          "location": "Watertown, MA",
+          "medium": "acrylic on panel",
+          "original": "sold",
+          "price": "180",
+          "size": "10\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3648008,-71.2128357"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "autumn_woods"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Watertown, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on panel"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 100
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 10
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 8
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-10-21"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/public_garden_swan",
+      "version": 1572065285,
+      "format": "jpg",
+      "width": 3506,
+      "height": 2770,
+      "type": "upload",
+      "created_at": "2019-10-26T04:48:05Z",
+      "context": {
+        "custom": {
+          "alb-order": "35",
+          "album": "Plein Air",
+          "alt": "View of the Swan Boat pond in the Public Garden, late summer",
+          "caption": "Public Garden Swan",
+          "completed": "2019-10-07",
+          "faa": "swan-pond",
+          "key": "swan_pond",
+          "location": "Boston, MA",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "120",
+          "size": "10\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3523651,-71.0694239"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "swan_pond"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Boston, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on panel"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 120
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 10
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 8
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-10-07"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "0001",
+            "value": "summer"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/lake_mansfield",
+      "version": 1572065284,
+      "format": "jpg",
+      "width": 3674,
+      "height": 2893,
+      "type": "upload",
+      "created_at": "2019-10-26T04:48:04Z",
+      "context": {
+        "custom": {
+          "alb-order": "36",
+          "album": "Plein Air",
+          "alt": "Peak foliage in Great Barrington",
+          "caption": "Lake Mansfield",
+          "completed": "2019-10-12",
+          "faa": "lake-mansfield",
+          "key": "lake_mansfield",
+          "location": "Great Barrington, MA",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "120",
+          "size": "10\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.2004799,-73.3687122"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "lake_mansfield"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Great Barrington, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on panel"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 120
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 10
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 8
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-10-12"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/portsmouth_terminal",
+      "version": 1572065282,
+      "format": "jpg",
+      "width": 1924,
+      "height": 2673,
+      "type": "upload",
+      "created_at": "2019-10-26T04:48:02Z",
+      "context": {
+        "custom": {
+          "alb-order": "32",
+          "album": "Plein Air",
+          "alt": "Had some time to kill at the bus terminal in Portsmouth",
+          "caption": "Portsmouth Transportation Center",
+          "completed": "2019-09-15",
+          "faa": "portsmouth-terminal",
+          "key": "portsmouth_terminal",
+          "location": "Portsmouth, NH",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "80",
+          "size": "5\" x 7\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "43.05961,-70.8037718"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "portsmouth_terminal"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Portsmouth, NH"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on canvas"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 80
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 5
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 7
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-09-15"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "0001",
+            "value": "summer"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/boston_nightscape",
+      "version": 1572065281,
+      "format": "jpg",
+      "width": 3332,
+      "height": 2402,
+      "type": "upload",
+      "created_at": "2019-10-26T04:48:01Z",
+      "context": {
+        "custom": {
+          "alb-order": "23",
+          "album": "Plein Air",
+          "alt": "Short stretch of riverfront, from Cambridge",
+          "caption": "Boston Night Skyline",
+          "completed": "2019-08-01",
+          "key": "boston_nightscape",
+          "location": "Boston, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "80",
+          "size": "10\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3599051,-71.0857115"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "boston_nightscape"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Boston, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on canvas"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 80
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 10
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 8
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-08-01"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "0001",
+            "value": "summer"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/early_fall_mt_feake",
+      "version": 1569878322,
+      "format": "jpg",
+      "width": 3741,
+      "height": 2964,
+      "type": "upload",
+      "created_at": "2019-09-30T21:18:42Z",
+      "context": {
+        "custom": {
+          "alb-order": "34",
+          "album": "Plein Air",
+          "alt": "A Sunday afternoon at Mt. Feake cemetery, just as the leaves are starting to turn",
+          "caption": "Eternal Rest in Early Autumn",
+          "completed": "2019-09-25",
+          "faa": "mt-feake-cemetery-early-fall",
+          "key": "fall_mt_feake",
+          "location": "Waltham, MA",
+          "medium": "acrylic on panel",
+          "original": "sold",
+          "size": "10\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3748201,-71.245658"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "early_fall_mt_feake"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Waltham, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on panel"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 200
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 10
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 8
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-09-25"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "lyh1rhmwjrmioet3k8ys",
+            "value": "autumn"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/a_friday_in_september",
+      "version": 1569878320,
+      "format": "jpg",
+      "width": 3782,
+      "height": 2905,
+      "type": "upload",
+      "created_at": "2019-09-30T21:18:40Z",
+      "context": {
+        "custom": {
+          "alb-order": "33",
+          "album": "Plein Air",
+          "alt": "On the Esplanade, looking across the Charles on a Friday afternoon",
+          "caption": "A Friday in September",
+          "completed": "2019-09-26",
+          "faa": "a-friday-in-september",
+          "geotag": "42.3540753,-71.079559",
+          "key": "september_esplanade",
+          "location": "Boston, MA",
+          "medium": "acrylic on clay",
+          "original": "available",
+          "price": "200",
+          "size": "10\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/memorial_drive",
+      "version": 1568852547,
+      "format": "jpg",
+      "width": 3923,
+      "height": 2772,
+      "type": "upload",
+      "created_at": "2019-09-19T00:22:27Z",
+      "context": {
+        "custom": {
+          "alb-order": "26",
+          "album": "Plein Air",
+          "alt": "Late summer in JFK Memorial Park, looking east along the Charles towards Anderson Bridge",
+          "caption": "Memorial Drive",
+          "completed": "2019-09-05",
+          "faa": "memorial-drive",
+          "key": "memorial_drive",
+          "location": "Cambridge, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "300",
+          "size": "14\" x 10\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/hatch_shell_east",
+      "version": 1568852546,
+      "format": "jpg",
+      "width": 3794,
+      "height": 2845,
+      "type": "upload",
+      "created_at": "2019-09-19T00:22:26Z",
+      "context": {
+        "custom": {
+          "alb-order": "27",
+          "album": "Plein Air",
+          "alt": "Just past the Hatch Shell amphitheater, looking west towards the Prudential building",
+          "caption": "East of Hatch Shell",
+          "completed": "2019-09-11",
+          "key": "hatch_shell_east",
+          "location": "Boston, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "50",
+          "size": "6\" x 6\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/seven_hills_park",
+      "version": 1568852546,
+      "format": "jpg",
+      "width": 3519,
+      "height": 2711,
+      "type": "upload",
+      "created_at": "2019-09-19T00:22:26Z",
+      "context": {
+        "custom": {
+          "alb-order": "28",
+          "album": "Plein Air",
+          "alt": "Behind the Davis Square T station on a damp Thursday in September",
+          "caption": "Seven Hills Park",
+          "completed": "2019-09-12",
+          "faa": "seven-hills-park",
+          "key": "seven_hills_park",
+          "location": "Somerville, MA",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "80",
+          "size": "10\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/gosport_harbor",
+      "version": 1568852545,
+      "format": "jpg",
+      "width": 3828,
+      "height": 2979,
+      "type": "upload",
+      "created_at": "2019-09-19T00:22:25Z",
+      "context": {
+        "custom": {
+          "alb-order": "31",
+          "album": "Plein Air",
+          "alt": "View through the window of the Art Barn at Star Island",
+          "caption": "Gosport Harbor",
+          "completed": "2019-09-15",
+          "faa": "gosport-harbor",
+          "key": "gosport_harbor",
+          "location": "Isles of Shoals, NH",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "150",
+          "size": "10\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/norumbega_tower",
+      "version": 1568852545,
+      "format": "jpg",
+      "width": 2816,
+      "height": 2860,
+      "type": "upload",
+      "created_at": "2019-09-19T00:22:25Z",
+      "context": {
+        "custom": {
+          "alb-order": "29",
+          "album": "Plein Air",
+          "alt": "Built to commemorate the arrival of Leif Erikson in Waltham, and event which unfortunately did not happen",
+          "caption": "Norumbega Tower",
+          "completed": "2019-09-08",
+          "faa": "norumbega-tower",
+          "key": "norumbega_tower",
+          "location": "Weston, MA",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "180",
+          "size": "8\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/tea_crabapple_tree",
+      "version": 1568852545,
+      "format": "jpg",
+      "width": 2545,
+      "height": 2545,
+      "type": "upload",
+      "created_at": "2019-09-19T00:22:25Z",
+      "context": {
+        "custom": {
+          "alb-order": "10",
+          "album": "Plein Air",
+          "alt": "Fun-shaped little tree in the Public Garden, July",
+          "caption": "Tea Crabapple Tree",
+          "completed": "2019-08-02",
+          "faa": "tea-crabapple-tree",
+          "key": "tea_crabapple",
+          "location": "Boston, MA",
+          "medium": "acrylic on panel",
+          "size": "6\" x 6\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/sarah_mildred_long_bridge",
+      "version": 1568852543,
+      "format": "jpg",
+      "width": 3496,
+      "height": 2489,
+      "type": "upload",
+      "created_at": "2019-09-19T00:22:23Z",
+      "context": {
+        "custom": {
+          "alb-order": "30",
+          "album": "Plein Air",
+          "alt": "Aerial bridge in Portsmouth; painted while waiting for the ferry to Star Island",
+          "caption": "Sarah Mildred Long Bridge",
+          "completed": "2019-09-13",
+          "faa": "aerial-bridge",
+          "key": "aerial_bridge",
+          "location": "Portsmouth, NH",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "100",
+          "size": "7\" x 5\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/herter_birch",
+      "version": 1567531055,
+      "format": "jpg",
+      "width": 3580,
+      "height": 2598,
+      "type": "upload",
+      "created_at": "2019-09-03T17:17:35Z",
+      "context": {
+        "custom": {
+          "alb-order": "22",
+          "album": "Plein Air",
+          "caption": "Birches in Herter Park",
+          "completed": "2019-08-16",
+          "faa": "herter-birch",
+          "key": "herter_birch",
+          "location": "Allston, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "100",
+          "size": "7\" x 5\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/dunster",
+      "version": 1567531054,
+      "format": "jpg",
+      "width": 2818,
+      "height": 2818,
+      "type": "upload",
+      "created_at": "2019-09-03T17:17:34Z",
+      "context": {
+        "custom": {
+          "alb-order": "25",
+          "album": "Plein Air",
+          "alt": "View of iconic Harvard residence and bridge",
+          "caption": "Dunster House",
+          "completed": "2019-08-30",
+          "faa": "dunster",
+          "geotag": "42.3681312,-71.1209535",
+          "key": "dunster",
+          "location": "Cambridge, MA",
+          "medium": "acrylic on panel",
+          "original": "sold",
+          "size": "6\" x 6\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/caterpillar_hill",
+      "version": 1567531054,
+      "format": "jpg",
+      "width": 2798,
+      "height": 2782,
+      "type": "upload",
+      "created_at": "2019-09-03T17:17:34Z",
+      "context": {
+        "custom": {
+          "alb-order": "24",
+          "album": "Plein Air",
+          "alt": "View of Maine coast from Caterpillar Hill",
+          "caption": "Caterpillar Hill",
+          "completed": "2019-08-28",
+          "faa": "caterpillar-hill",
+          "key": "caterpillar_hill",
+          "location": "Blue Hill, ME",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "150",
+          "size": "6\" x 6\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/parker_point",
+      "version": 1567530851,
+      "format": "jpg",
+      "width": 3828,
+      "height": 2870,
+      "type": "upload",
+      "created_at": "2019-09-03T17:14:11Z",
+      "context": {
+        "custom": {
+          "alb-order": "23",
+          "album": "Plein Air",
+          "alt": "A cozy little blue house in Maine",
+          "caption": "Parker Point",
+          "completed": "2019-08-26",
+          "faa": "parker-point",
+          "key": "parker_point",
+          "location": "Blue Hill, ME",
+          "medium": "acrylic on canvas",
+          "original": "sold",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/riparian_balcony",
+      "version": 1565708896,
+      "format": "jpg",
+      "width": 3710,
+      "height": 2782,
+      "type": "upload",
+      "created_at": "2019-08-13T15:08:16Z",
+      "context": {
+        "custom": {
+          "alb-order": "19",
+          "album": "Plein Air",
+          "alt": "One of many picturesque scenes along the river",
+          "caption": "Riparian Balcony",
+          "completed": "2019-08-12",
+          "key": "riparian_balcony",
+          "location": "Waltham, MA",
+          "medium": "acrylic on paper",
+          "original": "available",
+          "price": "150",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/watertown_dam",
+      "version": 1565708896,
+      "format": "jpg",
+      "width": 3744,
+      "height": 2737,
+      "type": "upload",
+      "created_at": "2019-08-13T15:08:16Z",
+      "context": {
+        "custom": {
+          "alb-order": "21",
+          "album": "Plein Air",
+          "alt": "View of overlook from the Footbridge featured in other paintings",
+          "caption": "Watertown Dam",
+          "completed": "2019-08-12",
+          "faa": "watertown-dam",
+          "key": "watertown_dam",
+          "location": "Watertown, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "150",
+          "size": "7\" x 5\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/buildings_n_stuff",
+      "version": 1575474718,
+      "format": "jpg",
+      "width": 2781,
+      "height": 3732,
+      "type": "upload",
+      "created_at": "2019-08-13T15:08:13Z",
+      "context": {
+        "custom": {
+          "alb-order": "18",
+          "album": "Plein Air",
+          "alt": "Downtown Boston from the Public Garden",
+          "caption": "Buildings and Stuff",
+          "completed": "2019-08-07",
+          "faa": "buildings_n_stuff",
+          "key": "buildings_n_stuff",
+          "location": "Boston, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "200",
+          "size": "9\" x 12\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3541695,-71.0691739"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "buildings_n_stuff"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Boston, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on canvas"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 200
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 9
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 12
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-08-07"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "0001",
+            "value": "summer"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/fishing",
+      "version": 1565708882,
+      "format": "jpg",
+      "width": 2929,
+      "height": 2929,
+      "type": "upload",
+      "created_at": "2019-08-13T15:08:02Z",
+      "context": {
+        "custom": {
+          "alb-order": "20",
+          "album": "Plein Air",
+          "alt": "Summer afternoon on a cozy little nook of river",
+          "caption": "Fishing",
+          "completed": "2019-08-10",
+          "key": "fishing",
+          "location": "Watertown, MA",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "200",
+          "size": "6\" x 6\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/cambridge_common",
+      "version": 1565708876,
+      "format": "jpg",
+      "width": 3673,
+      "height": 2792,
+      "type": "upload",
+      "created_at": "2019-08-13T15:07:56Z",
+      "context": {
+        "custom": {
+          "alb-order": "17",
+          "album": "Plein Air",
+          "alt": "John Harvard statue in center of Common",
+          "caption": "Cambridge Common",
+          "completed": "2019-08-08",
+          "faa": "cambridge-common",
+          "key": "cambridge_common",
+          "location": "Cambridge, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "100",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/hatch_esplanade",
+      "version": 1565708865,
+      "format": "jpg",
+      "width": 2745,
+      "height": 3517,
+      "type": "upload",
+      "created_at": "2019-08-13T15:07:45Z",
+      "context": {
+        "custom": {
+          "alb-order": "2",
+          "album": "Plein Air",
+          "alt": "Was trying to paint from perspective of 20' up, to get both bridges",
+          "caption": "Esplanade, Looking East",
+          "completed": "2019-06-14",
+          "geotag": "42.356926,-71.074339",
+          "key": "hatch_esplanade",
+          "location": "Boston, MA",
+          "medium": "acrylic on paper",
+          "original": "available",
+          "price": "80",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/capitol",
+      "version": 1572313716,
+      "format": "jpg",
+      "width": 2828,
+      "height": 2828,
+      "type": "upload",
+      "created_at": "2019-08-13T15:07:42Z",
+      "context": {
+        "custom": {
+          "alb-order": "15",
+          "album": "Plein Air",
+          "alt": "View of the statehouse capitol dome, from Cambridge",
+          "caption": "Capitol",
+          "completed": "2019-08-06",
+          "faa": "capitol",
+          "key": "capitol",
+          "location": "Boston, MA",
+          "medium": "acrylic on panel",
+          "original": "available",
+          "price": "150",
+          "size": "6\" x 6\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3603537,-71.0844482"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "capitol"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Boston, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on panel"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 150
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 6
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 6
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-08-06"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "0001",
+            "value": "summer"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/longfellow_night",
+      "version": 1565708859,
+      "format": "jpg",
+      "width": 3788,
+      "height": 2841,
+      "type": "upload",
+      "created_at": "2019-08-13T15:07:39Z",
+      "context": {
+        "custom": {
+          "alb-order": "14",
+          "album": "Plein Air",
+          "caption": "Longfellow Bridge, night",
+          "completed": "2019-07-27",
+          "faa": "longfellow-bridge-at-night",
+          "key": "longfellow_night",
+          "location": "Boston, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "120",
+          "size": "10\" x 8\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/mit_sunset",
+      "version": 1565708854,
+      "format": "jpg",
+      "width": 3699,
+      "height": 2534,
+      "type": "upload",
+      "created_at": "2019-08-13T15:07:34Z",
+      "context": {
+        "custom": {
+          "alb-order": "16",
+          "album": "Plein Air",
+          "alt": "View of MIT from Esplanade",
+          "caption": "MIT, sunset",
+          "completed": "2019-08-03",
+          "faa": "mit-sunset",
+          "key": "mit_sunset",
+          "location": "Cambridge, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "100",
+          "size": "7\" x 5\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/herter-park_2019",
+      "version": 1564114018,
+      "format": "jpg",
+      "width": 4032,
+      "height": 2943,
+      "type": "upload",
+      "created_at": "2019-07-26T04:06:58Z",
+      "context": {
+        "custom": {
+          "alb-order": "3",
+          "album": "Plein Air",
+          "alt": "Trying to get the hang of sunlight on water",
+          "caption": "Herter Park",
+          "completed": "2019-06-26",
+          "key": "herter_park",
+          "medium": "acrylic",
+          "original": "available",
+          "price": "80",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      }
+    },
+    {
+      "public_id": "art/jfk-memorial-park",
+      "version": 1564114007,
+      "format": "jpg",
+      "width": 3851,
+      "height": 2764,
+      "type": "upload",
+      "created_at": "2019-07-26T04:06:47Z",
+      "context": {
+        "custom": {
+          "alb-order": "7",
+          "album": "Plein Air",
+          "caption": "JFK Memorial Park",
+          "completed": "2019-06-29",
+          "key": "jfk_park",
+          "medium": "acrylic",
+          "original": "available",
+          "price": "50",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      }
+    },
+    {
+      "public_id": "art/footbridge-watertown-dam",
+      "version": 1564113998,
+      "format": "jpg",
+      "width": 4032,
+      "height": 3024,
+      "type": "upload",
+      "created_at": "2019-07-26T04:06:38Z",
+      "context": {
+        "custom": {
+          "alb-order": "12",
+          "album": "Plein Air",
+          "alt": "View from the overlook at Watertown Dam",
+          "caption": "Footbridge at Watertown Dam",
+          "completed": "2019-07-31",
+          "faa": "thomson-pedestrian-bridge",
+          "key": "footbridge_dam",
+          "medium": "acrylic",
+          "original": "available",
+          "price": "140",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/charles-river-watertown",
+      "version": 1564113965,
+      "format": "jpg",
+      "width": 4032,
+      "height": 3024,
+      "type": "upload",
+      "created_at": "2019-07-26T04:06:05Z",
+      "context": {
+        "custom": {
+          "alb-order": "4",
+          "album": "Plein Air",
+          "caption": "Charles River, Watertown",
+          "completed": "2019-06-24",
+          "geotag": "42.366842,-71.1942025",
+          "key": "charles_river",
+          "location": "Watertown, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "80",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      }
+    },
+    {
+      "public_id": "art/eliot-bridge",
+      "version": 1564113958,
+      "format": "jpg",
+      "width": 3834,
+      "height": 2626,
+      "type": "upload",
+      "created_at": "2019-07-26T04:05:58Z",
+      "context": {
+        "custom": {
+          "alb-order": "6",
+          "album": "Plein Air",
+          "alt": "Caught in a midsummer thunderstorm under Eliot Bridge; luckily had my easel with me",
+          "caption": "Under Eliot Bridge",
+          "completed": "2019-07-11",
+          "faa": "eliot-bridge",
+          "key": "eliot_bridge",
+          "location": "Boston, MA",
+          "medium": "acrylic",
+          "original": "available",
+          "price": "130",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      }
+    },
+    {
+      "public_id": "art/cambridge-hyatt",
+      "version": 1575474052,
+      "format": "jpg",
+      "width": 3820,
+      "height": 2757,
+      "type": "upload",
+      "created_at": "2019-07-26T04:05:54Z",
+      "context": {
+        "custom": {
+          "alb-order": "11",
+          "album": "Plein Air",
+          "alt": "aka Aztec Pyramid, at sunset",
+          "caption": "Hyatt Regency",
+          "completed": "2019-07-12",
+          "faa": "cambridge-hyatt",
+          "key": "cambridge_hyatt",
+          "location": "Cambridge, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "120",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaGeotag",
+          "label": "GPS Location",
+          "type": "string",
+          "value": "42.3517475,-71.1019996"
+        },
+        {
+          "external_id": "metaKey",
+          "label": "Lookup ID",
+          "type": "string",
+          "value": "cambridge_hyatt"
+        },
+        {
+          "external_id": "metaLocation",
+          "label": "Location",
+          "type": "string",
+          "value": "Boston, MA"
+        },
+        {
+          "external_id": "metaMedium",
+          "label": "Medium",
+          "type": "string",
+          "value": "acrylic on canvas"
+        },
+        {
+          "external_id": "metaOrigPrice",
+          "label": "Original Sale Price",
+          "type": "integer",
+          "value": 120
+        },
+        {
+          "external_id": "metaSizeLength",
+          "label": "Length",
+          "type": "integer",
+          "value": 12
+        },
+        {
+          "external_id": "metaSizeWidth",
+          "label": "Width",
+          "type": "integer",
+          "value": 9
+        },
+        {
+          "external_id": "metaDateCompleted",
+          "label": "Date Completed",
+          "type": "date",
+          "value": "2019-07-27"
+        },
+        {
+          "external_id": "metaPrimarySubject",
+          "label": "Primary Subject",
+          "type": "enum",
+          "value": {
+            "external_id": "q73vnkfr9npy2pbodyhq",
+            "value": "places"
+          }
+        },
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        },
+        {
+          "external_id": "metaSeason",
+          "label": "Season",
+          "type": "enum",
+          "value": {
+            "external_id": "0001",
+            "value": "summer"
+          }
+        },
+        {
+          "external_id": "metaAvailability",
+          "label": "Availability",
+          "type": "set",
+          "value": [
+            {
+              "external_id": "0001",
+              "value": "original"
+            },
+            {
+              "external_id": "zop4nbylga0wotbvbq3d",
+              "value": "products"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "public_id": "art/boston-skyline_2019",
+      "version": 1564113936,
+      "format": "jpg",
+      "width": 3830,
+      "height": 2687,
+      "type": "upload",
+      "created_at": "2019-07-26T04:05:36Z",
+      "context": {
+        "custom": {
+          "alb-order": "5",
+          "album": "Plein Air",
+          "alt": "sky and water painted on different days",
+          "caption": "Boston Skyline",
+          "completed": "2019-07-02",
+          "faa": "boston-skyline",
+          "geotag": "42.3599051,-71.0857115",
+          "key": "skyline",
+          "location": "Boston, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "100",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      }
+    },
+    {
+      "public_id": "art/cambridge-night",
+      "version": 1564113934,
+      "format": "jpg",
+      "width": 3847,
+      "height": 2464,
+      "type": "upload",
+      "created_at": "2019-07-26T04:05:34Z",
+      "context": {
+        "custom": {
+          "alb-order": "9",
+          "album": "Plein Air",
+          "alt": "My discovery of black canvas",
+          "caption": "MIT, night",
+          "completed": "2019-07-21",
+          "key": "mit_night",
+          "location": "Cambridge, MA",
+          "medium": "acrylic on black canvas",
+          "original": "available",
+          "price": "80",
+          "size": "10\" x 8\"",
+          "year": "2019"
+        }
+      }
+    },
+    {
+      "public_id": "art/boston-public-gardens-2",
+      "version": 1564113933,
+      "format": "jpg",
+      "width": 3833,
+      "height": 2874,
+      "type": "upload",
+      "created_at": "2019-07-26T04:05:33Z",
+      "context": {
+        "custom": {
+          "alb-order": "13",
+          "album": "Plein Air",
+          "alt": "Another view from the Public Gardens",
+          "caption": "Boston Public Gardens",
+          "completed": "2019-07-21",
+          "faa": "public-gardens-2",
+          "key": "public_garden_2",
+          "location": "Boston, MA",
+          "medium": "acrylic on canvas",
+          "original": "available",
+          "price": "120",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/boston-public-gardens",
+      "version": 1564113931,
+      "format": "jpg",
+      "width": 2972,
+      "height": 3814,
+      "type": "upload",
+      "created_at": "2019-07-26T04:05:31Z",
+      "context": {
+        "custom": {
+          "alb-order": "8",
+          "album": "Plein Air",
+          "alt": "John Hancock tower from the Swan Pond. Subsequently bought by passing tourist.",
+          "caption": "Boston Public Gardens",
+          "completed": "2019-06-30",
+          "faa": "boston-public-garden-1",
+          "key": "bpg_hancock",
+          "location": "Boston, MA",
+          "medium": "acrylic on canvas",
+          "original": "sold",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      },
+      "metadata": [
+        {
+          "external_id": "metaProtected",
+          "label": "Protected",
+          "type": "enum",
+          "value": {
+            "external_id": "hawitgsayxojzrvtkx9q",
+            "value": "watermark"
+          }
+        }
+      ]
+    },
+    {
+      "public_id": "art/beaver-brook-north",
+      "version": 1564113902,
+      "format": "jpg",
+      "width": 2724,
+      "height": 1980,
+      "type": "upload",
+      "created_at": "2019-07-26T04:05:02Z",
+      "context": {
+        "custom": {
+          "alb-order": "1",
+          "album": "Plein Air",
+          "alt": "My first Plein Air painting of 2019",
+          "caption": "Beaver Brook North",
+          "completed": "2019-06-10",
+          "faa": "beaver-brook-north",
+          "geotag": "42.4032379,-71.1987016",
+          "key": "beaver_brook",
+          "location": "Waltham, MA",
+          "medium": "acrylic",
+          "original": "available",
+          "price": "80",
+          "size": "12\" x 9\"",
+          "year": "2019"
+        }
+      }
+    }
+  ],
+  "updated_at": "2021-06-07T22:24:48Z"
+}
