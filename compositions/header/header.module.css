@@ -1,0 +1,24 @@
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+
+.banner {
+  width: 100vw;
+}
+
+.menu {
+  margin: 2rem 4rem;
+}
+
+.menu a {
+  text-decoration: none;
+  font-size: large;
+  font-weight: bold;
+  
+  color: black;
+}
+
+.logo {
+  margin: 2rem 3rem;
+}
