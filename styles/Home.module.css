@@ -113,6 +113,18 @@
   margin-left: 0.5rem;
 }
 
+
+.todo {
+  padding: 1rem 2rem;
+  font-family: monospace;
+  background-color: black;
+  color: cyan;
+  border-radius: 5%;
+}
+.todo ::before {
+  content: "TODO: ";
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
