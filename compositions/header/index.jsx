@@ -16,7 +16,7 @@ export default function Header() {
         height={80} 
       />
       <nav className={styles.menu}>
-        <Link href="/home">
+        <Link href="/">
           <a>Home</a>
         </Link>
         <Link href="/artwork">
