@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './';
+import Header from '.';
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {

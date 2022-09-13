@@ -11,7 +11,7 @@
   margin: 2rem 4rem;
 }
 
-.menu a {
+.navlink {
   text-decoration: none;
   font-size: large;
   font-weight: bold;
@@ -20,5 +20,13 @@
 }
 
 .logo {
-  margin: 2rem 3rem;
+  border: ridge 4px #066;
+  padding: 0.2em;
+  margin-left: 2em;
+}
+.pageTitle {
+  font-size: 4rem;
+  display: inline-block;
+  text-align: center;
+  margin-left: 3rem;
 }
