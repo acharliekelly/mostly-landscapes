@@ -1,0 +1,1 @@
+export const SiteTitle = "Mostly Landscapes";
