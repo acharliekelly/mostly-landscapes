@@ -1,0 +1,21 @@
+.navMain {
+    padding: 2em 1em;
+    color:#00A6FF;
+    font-family: Cardo, serif; 
+    font-weight: bold;
+    border-bottom: thin #ccc solid;
+}
+
+
+.navItem {
+    padding: 1em 2em;
+    color: #999;
+    font-family: Cardo, serif; 
+    background-color: #eee;
+}
+
+.leftnav {
+    display: block;
+
+    width: 20vw;
+}
